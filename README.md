@@ -1,7 +1,7 @@
 # App Energia
 Shiny app for estimate GHG emissions and their uncertainty for Energy Sector in Colombia
 
-Download directly cloning Repository (https://github.com/EdisonOrtiz/App-Energia/archive/master.zip)
+Download directly cloning Repository (https://github.com/EdisonOrtiz/GHGEnergy-App/archive/master.zip)
 
 Packages required: triangle, openxlsx, nleqslv, fitdistrplus, ggplot2, reshape2, shiny, DT, imager, ggalluvial
 

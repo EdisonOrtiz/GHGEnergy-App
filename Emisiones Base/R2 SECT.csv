@@ -1,0 +1,109 @@
+"ANO","GAS","Sector","EM"
+2010,"CH4","Minería de Carbón y Producción de Coque",2.22217849717862
+2011,"CH4","Minería de Carbón y Producción de Coque",2.62879283746822
+2012,"CH4","Minería de Carbón y Producción de Coque",2.51848978114341
+2013,"CH4","Minería de Carbón y Producción de Coque",2.50605170816564
+2014,"CH4","Minería de Carbón y Producción de Coque",2.55333390759404
+2015,"CH4","Minería de Carbón y Producción de Coque",2.52165507280322
+2016,"CH4","Minería de Carbón y Producción de Coque",2.6839981326825
+2017,"CH4","Minería de Carbón y Producción de Coque",2.58675046906142
+2018,"CH4","Minería de Carbón y Producción de Coque",2.25201193794161
+2010,"CO2","Minería de Carbón y Producción de Coque",2.38569995881531
+2011,"CO2","Minería de Carbón y Producción de Coque",2.31787147122086
+2012,"CO2","Minería de Carbón y Producción de Coque",2.45212231444522
+2013,"CO2","Minería de Carbón y Producción de Coque",2.51410284376913
+2014,"CO2","Minería de Carbón y Producción de Coque",2.89698629914294
+2015,"CO2","Minería de Carbón y Producción de Coque",2.57616544315547
+2016,"CO2","Minería de Carbón y Producción de Coque",2.43216571687051
+2017,"CO2","Minería de Carbón y Producción de Coque",2.77848685286359
+2018,"CO2","Minería de Carbón y Producción de Coque",3.06523651519039
+2010,"N2O","Minería de Carbón y Producción de Coque",0.00248673258
+2011,"N2O","Minería de Carbón y Producción de Coque",0.00251756394
+2012,"N2O","Minería de Carbón y Producción de Coque",0.0028481157
+2013,"N2O","Minería de Carbón y Producción de Coque",0.00263062218
+2014,"N2O","Minería de Carbón y Producción de Coque",0.003094978
+2015,"N2O","Minería de Carbón y Producción de Coque",0.00322511414
+2016,"N2O","Minería de Carbón y Producción de Coque",0.00306423127
+2017,"N2O","Minería de Carbón y Producción de Coque",0.00290213878
+2018,"N2O","Minería de Carbón y Producción de Coque",0.00279952444
+2010,"CH4","Petróleo y Gas",4.38094435558171
+2011,"CH4","Petróleo y Gas",4.48068379298905
+2012,"CH4","Petróleo y Gas",4.81261430382192
+2013,"CH4","Petróleo y Gas",5.09922870733952
+2014,"CH4","Petróleo y Gas",4.99698664949231
+2015,"CH4","Petróleo y Gas",4.96213060013823
+2016,"CH4","Petróleo y Gas",4.32207483290306
+2017,"CH4","Petróleo y Gas",4.25760504261391
+2018,"CH4","Petróleo y Gas",4.56566423262898
+2010,"CO2","Petróleo y Gas",8.72043061156535
+2011,"CO2","Petróleo y Gas",8.99823562251688
+2012,"CO2","Petróleo y Gas",9.07111934405407
+2013,"CO2","Petróleo y Gas",8.74263513273392
+2014,"CO2","Petróleo y Gas",8.0441723361677
+2015,"CO2","Petróleo y Gas",8.6030476724084
+2016,"CO2","Petróleo y Gas",9.88631639393753
+2017,"CO2","Petróleo y Gas",9.48067763807689
+2018,"CO2","Petróleo y Gas",9.28145836023205
+2010,"N2O","Petróleo y Gas",0.361633418455059
+2011,"N2O","Petróleo y Gas",0.41994688255375
+2012,"N2O","Petróleo y Gas",0.432688684074748
+2013,"N2O","Petróleo y Gas",0.460216651612385
+2014,"N2O","Petróleo y Gas",0.452876832195379
+2015,"N2O","Petróleo y Gas",0.459200686054043
+2016,"N2O","Petróleo y Gas",0.407349019914423
+2017,"N2O","Petróleo y Gas",0.392304295944407
+2018,"N2O","Petróleo y Gas",0.397855089260093
+2010,"CH4","Sistema Interconectado Nacional",0.00696405386631061
+2011,"CH4","Sistema Interconectado Nacional",0.00481283137329146
+2012,"CH4","Sistema Interconectado Nacional",0.00290682686725914
+2013,"CH4","Sistema Interconectado Nacional",0.00390112566796879
+2014,"CH4","Sistema Interconectado Nacional",0.00419994666865702
+2015,"CH4","Sistema Interconectado Nacional",0.00532757687813009
+2016,"CH4","Sistema Interconectado Nacional",0.0052084141649786
+2017,"CH4","Sistema Interconectado Nacional",0.00232283632201578
+2018,"CH4","Sistema Interconectado Nacional",0.00297078416223372
+2010,"CO2","Sistema Interconectado Nacional",10.1240583736219
+2011,"CO2","Sistema Interconectado Nacional",5.88882855313004
+2012,"CO2","Sistema Interconectado Nacional",7.26736888556795
+2013,"CO2","Sistema Interconectado Nacional",10.6656732338269
+2014,"CO2","Sistema Interconectado Nacional",11.6261749453766
+2015,"CO2","Sistema Interconectado Nacional",13.2659071183339
+2016,"CO2","Sistema Interconectado Nacional",12.486424718729
+2017,"CO2","Sistema Interconectado Nacional",5.84389250906799
+2018,"CO2","Sistema Interconectado Nacional",7.91433287514248
+2010,"N2O","Sistema Interconectado Nacional",0.0237838187084652
+2011,"N2O","Sistema Interconectado Nacional",0.0108703034368686
+2012,"N2O","Sistema Interconectado Nacional",0.0164644702628201
+2013,"N2O","Sistema Interconectado Nacional",0.0283807811697594
+2014,"N2O","Sistema Interconectado Nacional",0.0302490042506161
+2015,"N2O","Sistema Interconectado Nacional",0.035841139961065
+2016,"N2O","Sistema Interconectado Nacional",0.0355670415443741
+2017,"N2O","Sistema Interconectado Nacional",0.0139984880327012
+2018,"N2O","Sistema Interconectado Nacional",0.0210234905054594
+2010,"CH4","Zonas No Interconectadas",0.000181306975682585
+2011,"CH4","Zonas No Interconectadas",0.000206753705480333
+2012,"CH4","Zonas No Interconectadas",0.000247814343012951
+2013,"CH4","Zonas No Interconectadas",0.000245071714195867
+2014,"CH4","Zonas No Interconectadas",0.000266185031683599
+2015,"CH4","Zonas No Interconectadas",0.000294308190686572
+2016,"CH4","Zonas No Interconectadas",0.000310588108850823
+2017,"CH4","Zonas No Interconectadas",0.000292217129365501
+2018,"CH4","Zonas No Interconectadas",0.00025397873914379
+2010,"CO2","Zonas No Interconectadas",0.213520571715672
+2011,"CO2","Zonas No Interconectadas",0.243488532265748
+2012,"CO2","Zonas No Interconectadas",0.291844591198216
+2013,"CO2","Zonas No Interconectadas",0.288614667634474
+2014,"CO2","Zonas No Interconectadas",0.313479279731294
+2015,"CO2","Zonas No Interconectadas",0.346599202261347
+2016,"CO2","Zonas No Interconectadas",0.365771644032153
+2017,"CO2","Zonas No Interconectadas",0.344136613014098
+2018,"CO2","Zonas No Interconectadas",0.299104242302003
+2010,"N2O","Zonas No Interconectadas",0.000535287261539062
+2011,"N2O","Zonas No Interconectadas",0.000610415701894318
+2012,"N2O","Zonas No Interconectadas",0.000731642346038239
+2013,"N2O","Zonas No Interconectadas",0.000723545060959225
+2014,"N2O","Zonas No Interconectadas",0.000785879617351575
+2015,"N2O","Zonas No Interconectadas",0.000868909896312735
+2016,"N2O","Zonas No Interconectadas",0.000916974416607189
+2017,"N2O","Zonas No Interconectadas",0.000862736286698149
+2018,"N2O","Zonas No Interconectadas",0.000749841991757856
